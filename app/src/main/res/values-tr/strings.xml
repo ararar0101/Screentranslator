@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ekran Çevirici</string>
+    <string name="start_service">Yüzen Düğmeyi Başlat</string>
+    <string name="stop_service">Yüzen Düğmeyi Durdur</string>
+    <string name="permission_required">Üstte Görüntüleme İzni Gerekli</string>
+    <string name="grant_permission">Bu uygulamayı kullanmak için üstte görüntüleme izni verin</string>
+    <string name="select_area">Ekranda metin alanı seçin</string>
+    <string name="recognizing">Metin tanınıyor...</string>
+    <string name="translating">Çevriliyor...</string>
+    <string name="error_occurred">Bir hata oluştu</string>
+    <string name="no_text_found">Seçilen alanda metin bulunamadı</string>
+    <string name="translation_result">Çeviri:</string>
+    <string name="copy">Kopyala</string>
+    <string name="close">Kapat</string>
+    <string name="settings">Ayarlar</string>
+    <string name="target_language">Hedef Dil</string>
+    <string name="arabic">Arapça</string>
+    <string name="english">İngilizce</string>
+    <string name="turkish">Türkçe</string>
+    <string name="persian">Farsça</string>
+    <string name="select_language">Çeviri dilini seçin</string>
+    <string name="tap_to_capture">Ekranı yakalamak için yüzen düğmeye dokunun</string>
+</resources>

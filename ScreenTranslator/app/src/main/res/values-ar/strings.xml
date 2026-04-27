@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مترجم الشاشة</string>
+    <string name="start_service">تشغيل الزر العائم</string>
+    <string name="stop_service">إيقاف الزر العائم</string>
+    <string name="permission_required">صلاحية العرض مطلوبة</string>
+    <string name="grant_permission">يرجى منح صلاحية العرض لاستخدام التطبيق</string>
+    <string name="select_area">حدد منطقة النص على الشاشة</string>
+    <string name="recognizing">التعرف على النص...</string>
+    <string name="translating">جاري الترجمة...</string>
+    <string name="error_occurred">حدث خطأ</string>
+    <string name="no_text_found">لم يتم العثور على نص في المنطقة المحددة</string>
+    <string name="translation_result">الترجمة:</string>
+    <string name="copy">نسخ</string>
+    <string name="close">إغلاق</string>
+    <string name="settings">الإعدادات</string>
+    <string name="target_language">لغة الترجمة</string>
+    <string name="arabic">العربية</string>
+    <string name="english">الإنجليزية</string>
+    <string name="turkish">التركية</string>
+    <string name="persian">الفارسية</string>
+    <string name="select_language">اختر لغة الترجمة</string>
+    <string name="tap_to_capture">اضغط على الزر العائم لالتقاط الشاشة</string>
+</resources>

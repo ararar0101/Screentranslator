@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مترجم صفحه</string>
+    <string name="start_service">شروع دکمه شناور</string>
+    <string name="stop_service">توقف دکمه شناور</string>
+    <string name="permission_required">مجوز نمایش روی برنامه‌ها لازم است</string>
+    <string name="grant_permission">لطفاً برای استفاده از این برنامه مجوز نمایش را بدهید</string>
+    <string name="select_area">ناحیه متن را روی صفحه انتخاب کنید</string>
+    <string name="recognizing">در حال تشخیص متن...</string>
+    <string name="translating">در حال ترجمه...</string>
+    <string name="error_occurred">خطایی رخ داد</string>
+    <string name="no_text_found">متنی در ناحیه انتخاب شده یافت نشد</string>
+    <string name="translation_result">ترجمه:</string>
+    <string name="copy">کپی</string>
+    <string name="close">بستن</string>
+    <string name="settings">تنظیمات</string>
+    <string name="target_language">زبان مقصد</string>
+    <string name="arabic">عربی</string>
+    <string name="english">انگلیسی</string>
+    <string name="turkish">ترکی</string>
+    <string name="persian">فارسی</string>
+    <string name="select_language">زبان ترجمه را انتخاب کنید</string>
+    <string name="tap_to_capture">برای گرفتن تصویر صفحه دکمه شناور را لمس کنید</string>
+</resources>
